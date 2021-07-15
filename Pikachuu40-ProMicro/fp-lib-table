@@ -2,4 +2,5 @@
   (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/Ruland/Documents/GitHub/Pikachuu40-ProMicro/Keebio-Parts.pretty-master)(options "")(descr ""))
   (lib (name kicad_lib_tmk-master)(type KiCad)(uri C:/Users/Ruland/Documents/GitHub/Pikachuu40-ProMicro/kicad_lib_tmk-master)(options "")(descr ""))
   (lib (name ProMicroKiCad-master)(type KiCad)(uri C:/Users/Ruland/Documents/GitHub/Pikachuu40-ProMicro/ProMicroKiCad-master)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri C:/Users/Ruland/Documents/GitHub/Pikachuu40-ProMicro/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
 )
